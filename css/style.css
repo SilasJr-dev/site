@@ -184,3 +184,7 @@ color: #b6ddc5;
 background: linear-gradient(360deg, transparent, #5961cc);
 box-shadow: #b6ddc5;
 }
+#copy {
+  width: 100px;
+  color: #149ba0;
+}
